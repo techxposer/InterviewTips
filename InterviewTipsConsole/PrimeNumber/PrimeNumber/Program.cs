@@ -74,7 +74,7 @@ namespace PrimeNumber
                 if (number % i == 0)
                     return 0;
                 else
-                    return IsPrime(number, i - 1);//calling the function checkForPrime itself recursively
+                    return IsPrime(number, i - 1);//calling the function IsPrime itself recursively
             }
 
         }
