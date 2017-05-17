@@ -1,0 +1,6 @@
+D:\Rajender\Practice\InterviewTipsConsole\PalindromeNumber\PalindromeNumber\bin\Debug\PalindromeNumber.exe.config
+D:\Rajender\Practice\InterviewTipsConsole\PalindromeNumber\PalindromeNumber\bin\Debug\PalindromeNumber.exe
+D:\Rajender\Practice\InterviewTipsConsole\PalindromeNumber\PalindromeNumber\bin\Debug\PalindromeNumber.pdb
+D:\Rajender\Practice\InterviewTipsConsole\PalindromeNumber\PalindromeNumber\obj\Debug\PalindromeNumber.csprojResolveAssemblyReference.cache
+D:\Rajender\Practice\InterviewTipsConsole\PalindromeNumber\PalindromeNumber\obj\Debug\PalindromeNumber.exe
+D:\Rajender\Practice\InterviewTipsConsole\PalindromeNumber\PalindromeNumber\obj\Debug\PalindromeNumber.pdb
